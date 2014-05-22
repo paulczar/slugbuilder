@@ -13,4 +13,4 @@ https://github.com/heroku/heroku-buildpack-scala
 https://github.com/igrigorik/heroku-buildpack-dart.git
 https://github.com/rhy-jot/buildpack-nginx.git
 https://github.com/Kloadut/heroku-buildpack-static-apache.git
-https://github.com/friism/heroku-buildpack-mono.git
+https://github.com/paulczar/heroku-buildpack-mono.git
